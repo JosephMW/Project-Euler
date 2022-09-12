@@ -1,5 +1,4 @@
 from math import *
-from tabnanny import check
 
 def checkPandigital(a,b,c):
     strnum = str(a) + str(b) + str(c)
